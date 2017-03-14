@@ -1,1 +1,1 @@
-"# china-area-code" 
+# 县以上行政区划代码 
